@@ -4,4 +4,3 @@ Flask
 seaborn
 ipykernel
 matplotlib
--e .
