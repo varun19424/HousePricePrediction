@@ -1,4 +1,4 @@
-# HousePricePrediction
+# DiamondPricePrediction
 
 ### Created a Environment
 '''
